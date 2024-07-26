@@ -1,3 +1,3 @@
 # ADVANCED-PROGRAMMING-PRACTICE
 
-college
+college laboratory
